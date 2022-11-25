@@ -6,7 +6,7 @@ Pillow
 pyrogram==1.3.6
 requests
 tgcrypto
-youtube-dl
+git+https://yt-dl.org/downloads/latest/youtube-dl
 olefile
 filetype
 tldextract
